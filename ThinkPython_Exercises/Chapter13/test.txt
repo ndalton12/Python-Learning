@@ -1,0 +1,4 @@
+Hi there!   
+How are you doing today?
+This is a test file.
+Some THINGS are upper case and there is all (different) kinds of punctuation & things: like 5 > 2.
