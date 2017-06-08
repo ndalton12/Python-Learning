@@ -26,7 +26,6 @@ def parse(raw_file, delimiter):
 
 	# Build data
 
-	
 	return parsed_data
 
 def main():

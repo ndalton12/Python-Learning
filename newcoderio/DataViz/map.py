@@ -2,7 +2,6 @@ import geojson
 
 import parse as p
 
-
 def create_map(data_file):
     """Creates a GeoJSON file.
     Returns a GeoJSON file that can be rendered in a GitHub
@@ -52,12 +51,12 @@ def create_map(data_file):
 
     # Now that all data is parsed in GeoJSON write to a file so we
     # can upload it to gist.github.com
-    with open('file_sf.geojson', 'w') as f:
+    with open('file_farmers.geojson', 'w') as f:
         f.write(geojson.dumps(geo_map))
 
 
 def main():
-    data = p.parse(p.MY_FILE, ",")
+    data = p.parse("farmers_market_data.csv", ",")
 
     return create_map(data)
 
