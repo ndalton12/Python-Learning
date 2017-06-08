@@ -24,7 +24,7 @@ def create_map(data_file):
 
         # Skip any zero coordinates as this will throw off
         # our map.
-        if line['X'] == "0" or line['Y'] == "0":
+        if line['x'] == "0" or line['y'] == "0":
             continue
 
         # Setup a new dictionary for each iteration.
@@ -33,11 +33,13 @@ def create_map(data_file):
         # Assign line items to appropriate GeoJSON fields.
         data['type'] = 'Feature'
         data['id'] = index
-        data['properties'] = {'title': line['Category'],
-                              'description': line['Descript'],
-                              'date': line['Date']}
+        data['properties'] = {'Market Name': line['MarketName'],
+                              'City': line['city'],
+                              'Baked Goods': line['Bakedgoods'],
+                              'Organic': line['Organic'],
+                              'Wild Harvested': line['WildHarvested']}
         data['geometry'] = {'type': 'Point',
-                            'coordinates': (line['X'], line['Y'])}
+                            'coordinates': (line['x'], line['y'])}
 
         # Add data dictionary to our item_list
         item_list.append(data)
