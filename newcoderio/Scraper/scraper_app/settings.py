@@ -8,8 +8,8 @@ DATABASE = {
     'drivername': 'postgres',
     'host': 'localhost',
     'port': '5432',
-    'username': '',
-    'password': '',
+    'username': 'postgres',
+    'password': 'postgres',
     'database': 'living_social'
 }
 
