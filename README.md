@@ -8,6 +8,6 @@ A repo for learning Python as a part of my Senior Independent Study Project (SIS
 
 <hr>
 
-Snippets from [1] are used in the ML folder exercises and most work in the ML folder features work combined with or derivative of examples from the book.
+Snippets from [1] are used in the ML folder exercises and most work in the ML folder features work combined with or derivative of examples from the [1].
 
-Snippets from [2] are used sparingly in the ThinkPython folder, with direct examples labeled with a 'From book' comment. Code sections not labeled with such comments are original work.
+Snippets from [2] are used sparingly in the ThinkPython folder, with direct examples labeled with a 'From book' comment (book refers to [2]) . Code sections not labeled with that comment are original.
