@@ -3,19 +3,19 @@ A repo for learning Python as a part of my Senior Independent Study Project (SIS
 
 ## Progress
 
-* Finished problem sets from Think Python book [3]
+* Finished problem sets from Think Python book [3] :heavy_check_mark:
 
-* Did some of the new-coder tutorials [2] 
+* Did some of the new-coder tutorials [2] :heavy_check_mark:
 
-* Worked extensively through problem sets in Hands-On ML book [1]
+* Worked extensively through problem sets in Hands-On ML book [1] :heavy_check_mark:
+
+* Commit to an open source project :heavy_check_mark:
 
 ## Next Goals
 
 ### In progress
 
 * Finish all problem sets from Hands-on ML book
-
-* Commit to an open source project
 
 * Try to get project on computing cluster, get involved with research based in Python
 
