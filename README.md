@@ -23,6 +23,10 @@ A repo for learning Python as a part of my Senior Independent Study Project (SIS
 
 * Learn about Python web-dev (i.e. django/flask)
 
+* Learn PyTorch
+
+* Learn reinforcement learning, GANs, other cool new ML stuff
+
 * Learn TF-Serving
 
 * Final project(?): Complete ML application with web app with Python backend to serve functionality to users
