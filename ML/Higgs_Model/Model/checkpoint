@@ -1,3 +1,0 @@
-model_checkpoint_path: "HIGGS_DNN_model"
-all_model_checkpoint_paths: "/tmp/HIGGS_DNN_model.ckpt"
-all_model_checkpoint_paths: "HIGGS_DNN_model"

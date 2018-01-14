@@ -1,0 +1,1 @@
+avg lb stacker and xgb_cv for new submission, try submission 8 -> avg in if result is good
