@@ -7,29 +7,32 @@ A repo for learning Python as a part of my Senior Independent Study Project (SIS
 
 * Did some of the new-coder tutorials [2] :heavy_check_mark:
 
-* Worked extensively through problem sets in Hands-On ML book [1] :heavy_check_mark:
-
 * Commit to an open source project :heavy_check_mark:
+
+* Finish all problem sets from Hands-on ML book [1] (may return to expand on some problems) :heavy_check_mark:
+
+* Competed in a Kaggle competition :heavy_check_mark:
 
 ## Next Goals
 
 ### In progress
 
-* Finish all problem sets from Hands-on ML book
+* Learn about Python web-dev (i.e. django/flask)
 
-* Try to get project on computing cluster, get involved with research based in Python
+* Expand statistical knowledge using Python examples
+
+* Learn PyTorch (reimplement some project? -- have already done some things in driver-project with PyTorch)
+
+* Try to get project on computing cluster, get involved with research based in Python (astrophysics? simulations? general data science?)
 
 ### Afterwards
 
-* Learn about Python web-dev (i.e. django/flask)
-
-* Learn PyTorch
-
-* Learn reinforcement learning, GANs, other cool new ML stuff
+* Learn GANs, other cool new ML stuff
 
 * Learn TF-Serving
 
-* Final project(?): Complete ML application with web app with Python backend to serve functionality to users
+* Final project(?): Complete application with web app with Python backend to serve functionality to users
+(robotics/ reinforcement based algorithm?, generative modeling?, medical classification problems? -- need to decide)
 
 
 ## Resources
