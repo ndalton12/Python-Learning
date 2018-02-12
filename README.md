@@ -17,23 +17,19 @@ A repo for learning Python as a part of my Senior Independent Study Project (SIS
 
 ### In progress
 
-* Learn about Python web-dev (i.e. django/flask)
-
-* Expand statistical knowledge using Python examples
-
-* Learn PyTorch (reimplement some project? -- have already done some things in driver-project with PyTorch)
-
-* Try to get project on computing cluster, get involved with research based in Python (astrophysics? simulations? general data science?)
+* Learn about Python web-dev (i.e. django/flask) -- see shifting-morals repo
 
 ### Afterwards
 
-* Learn GANs, other cool new ML stuff
+* Algorithmic trading + financial data science project
 
-* Learn TF-Serving
+* Learn GANs, PyTorch, TF-Serving, other cool new ML stuff + ML project
 
-* Final project(?): Complete application with web app with Python backend to serve functionality to users
-(robotics/ reinforcement based algorithm?, generative modeling?, medical classification problems? -- need to decide)
+### If extra time
 
+* Contribute more to open source
+
+* Expand statistical knowledge using Python examples
 
 ## Resources
 [1] Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron (O’Reilly). Copyright 2017 Aurélien Géron, 978-1-491-96229-9.
