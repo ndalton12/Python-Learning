@@ -15,7 +15,7 @@ A repo for learning Python as a part of my Senior Independent Study Project (SIS
 
 * Finished a course (MITx 6.00.2x) on data science :heavy_check_mark:
 
-* Created a [website](https://github.com/ndalton12/shifting-morals) using django :heavy_check_mark:
+* Created a [website](https://github.com/ndalton12/shifting-morals) using Django :heavy_check_mark:
 
 ## Future Extensions
 
@@ -33,6 +33,8 @@ A repo for learning Python as a part of my Senior Independent Study Project (SIS
 [2] new-coder: https://github.com/econchick/new-coder/blob/master/LICENSE
 
 [3] Think Python. How to Think Like a Computer Scientist. 2nd Edition, Version 2.2.21. Allen Downey. Green Tea Press
+
+[4] More complete references in [Learning Resources](https://github.com/ndalton12/learning-resources)
 
 **<hr>**
 
