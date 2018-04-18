@@ -45,6 +45,7 @@ def align(file, droptime):
         output.to_csv("aligned.csv", encoding='utf-8', index=False)
 
     except:
+        print("Incorrect formatting.")
         raise
 
     print("Finished aligning. See aligned.csv for results.")
